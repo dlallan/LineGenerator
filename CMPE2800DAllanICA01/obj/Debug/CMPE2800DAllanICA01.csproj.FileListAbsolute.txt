@@ -1,0 +1,13 @@
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\bin\Debug\CMPE2800DAllanICA01.exe.config
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\bin\Debug\CMPE2800DAllanICA01.exe
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\bin\Debug\CMPE2800DAllanICA01.pdb
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\bin\Debug\GDIDrawer.dll
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.csprojResolveAssemblyReference.cache
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.Form1.resources
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.Properties.Resources.resources
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.csproj.GenerateResource.Cache
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.exe
+C:\Users\dillo\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.pdb
+C:\Users\dallan9\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\bin\Debug\CMPE2800DAllanICA01.exe.config
+C:\Users\dallan9\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.exe
+C:\Users\dallan9\OneDrive\Documents\NAIT\Fall 2016\CMPE2800\ICAs\CMPE2800DAllanICA01\CMPE2800DAllanICA01\obj\Debug\CMPE2800DAllanICA01.pdb
